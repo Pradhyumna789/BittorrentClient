@@ -2,7 +2,7 @@
 
 ## Project Abstract
 
-#### This project is a from-scratch implementation of a BitTorrent client, built as part of the Codecrafters BitTorrent challenge. It explores the inner workings of the BitTorrent protocol — a widely used peer-to-peer protocol for efficient distribution of large files.
+#### This project is a from-scratch implementation of a BitTorrent client. It explores the inner workings of the BitTorrent protocol — a widely used peer-to-peer protocol for efficient distribution of large files.
 
 #### Throughout the project, the client evolves from a basic bencode parser to a fully functioning downloader capable of communicating with peers, fetching file metadata via magnet links, and downloading complete files piece by piece.
 
